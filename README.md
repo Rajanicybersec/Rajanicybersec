@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajani S.
 
-🎓 Computer Science Graduate | 🛡️ Aspiring Cybersecurity Analyst | 🐍 Python Enthusiast | Bug Hunter
+🎓 Computer Science Graduate | 🛡️ Aspiring Cybersecurity Analyst | 🐍 Python Enthusiast | Bug Hunter | Bangalore
 
 ---
 
