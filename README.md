@@ -15,7 +15,7 @@ Currently interning with **Brainwave Matrix Solutions** and building real-world 
 - **Cybersecurity**: Vulnerability Assessment, Penetration Testing, Phishing Detection
 - **Tools**: Nmap, Burp Suite, Wireshark, Metasploit, TryHackMe, Hack The Box
 - **Languages**: Python, HTML, Linux Shell
-- **Certifications**: VAPT (Techsolidity), Hack Web Apps & Android OS (Nullclass)
+- **Certifications**: VAPT (Techsolidity), Hack Web Apps & Android OS (Nullclass), Cisco Certified Ethical Hacker
 
 ---
 
